@@ -17,4 +17,11 @@ User Story
     5.A writer can create a blog from the application and update or delete blogs I have created.
 
 
+AUTHOR
+
+Hassan Abdi
+
+Support and Contact
+
+emperadam@gmail.com
 
